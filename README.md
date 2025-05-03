@@ -1,4 +1,4 @@
-# jellifish_ML
+# jellyfish_ML
 Unsupervised machine learning project with jellyfish image dataset (Clustering).
 
 Link to Kaggle dataset and additional info about it: https://www.kaggle.com/datasets/anshtanwar/jellyfish-types
